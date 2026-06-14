@@ -93,7 +93,7 @@
 
 ## 📞 Υποστήριξη
 
-**Σκαραφίγκας Βασίλειος** · ✉️ billskar123@gmail.com
+**Σκαραφίγκας Βασίλειος** · ✉️ chronopharmark@gmail.com
 
 <div align="center">
 <sub>© ChronoPharMark — λογισμικό διαχείρισης φαρμακείου.</sub>
